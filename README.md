@@ -1,7 +1,7 @@
 <div align="center">
 
-### 🌍 IP Geolocation Tracker
-### أداة تتبع المواقع الجغرافية لعناوين IP
+# 🌍 IP Geolocation Tracker
+# أداة تتبع المواقع الجغرافية لعناوين IP
 
 ꧁ঔৣ☬ Muhannad Daher ☬ঔৣ꧂
 
@@ -113,7 +113,7 @@ ig
 
 <div align="center">
 
-🐉 Kali Linux
+## 🐉 Kali Linux
 
 </div>
 
@@ -160,7 +160,7 @@ sudo apt update && sudo apt upgrade -y && sudo apt install python3 tor curl -y &
 
 <div align="center">
 
-📖 طريقة الاستخدام
+## 📖 طريقة الاستخدام
 
 </div>
 
@@ -175,7 +175,7 @@ sudo apt update && sudo apt upgrade -y && sudo apt install python3 tor curl -y &
 
 <div align="center">
 
-🔒 إعدادات Tor
+## 🔒 إعدادات Tor
 
 </div>
 
@@ -196,7 +196,7 @@ sudo apt update && sudo apt upgrade -y && sudo apt install python3 tor curl -y &
 
 ---
 
-⌨️ اختصارات مهمة
+## ⌨️ اختصارات مهمة
 
 الاختصار الوظيفة
 Ctrl+C إيقاف الأداة فوراً
@@ -205,7 +205,7 @@ Ctrl+C إيقاف الأداة فوراً
 
 ---
 
-📂 حفظ النتائج
+## 📂 حفظ النتائج
 
 </div>
 
@@ -235,7 +235,7 @@ ip_94.249.81.43_info.json
 
 <div align="center">
 
-🔧 إنشاء اختصار التشغيل
+## 🔧 إنشاء اختصار التشغيل
 
 </div>
 
@@ -259,7 +259,7 @@ sudo ln -sf /usr/local/bin/mud_ig.py /usr/local/bin/ig
 
 <div align="center">
 
-⚠️ ملاحظات مهمة
+## ⚠️ ملاحظات مهمة
 
 </div>
 
@@ -272,7 +272,7 @@ sudo ln -sf /usr/local/bin/mud_ig.py /usr/local/bin/ig
 
 <div align="center">
 
-👨‍💻 المطور
+## 👨‍💻 المطور
 
 Muhannad Daher
 
@@ -280,7 +280,7 @@ https://img.shields.io/badge/GitHub-mmuhacker-black?style=for-the-badge&logo=git
 
 ---
 
-📄 الرخصة
+## 📄 الرخصة
 
 MIT License — حر الاستخدام مع ذكر المصدر
 
@@ -288,7 +288,7 @@ MIT License — حر الاستخدام مع ذكر المصدر
 
 · أداة تتبع المواقع الجغرافية لعناوين IP
 · البيئة: Termux (Android) / Kali Linux
-· الإصدار: v2.8
+· الإصدار: v1.0
 
 ---
 
