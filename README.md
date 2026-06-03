@@ -33,7 +33,7 @@
 - [إنشاء اختصار التشغيل](#-إنشاء-اختصار-التشغيل)
   - [تطبيق Termux](https://github.com/mmuhacker/mud-ig/blob/main/README.md#termux)
   - [نظام Kali Linux](https://github.com/mmuhacker/mud-ig/blob/main/README.md#kali-linuxali-Linux)
-- [المطور](#-المطور)
+- [المطور](https://github.com/mmuhacker/mud-ig/blob/main/README.md#%E2%80%8D-%D8%A7%D9%84%D9%85%D8%B7%D9%88%D8%B1)
 - [الرخصة](#-الرخصة)
 
 ---
