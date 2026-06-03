@@ -293,15 +293,15 @@ sudo ln -sf /usr/local/bin/mud_ig.py /usr/local/bin/ig
 
 ---
 
-- **أداة تتبع المواقع الجغرافية لعناوين IP**
-- **البيئة: Termux (Android) / Kali Linux**
-- **الإصدار: v1.0**
+- *أداة تتبع المواقع الجغرافية لعناوين IP*
+- *البيئة: Termux (Android) / Kali Linux*
+- *الإصدار: v1.0*
 
 ---
 
 <div align="center">
   
-** Madarik Tools — صُنع بالعربية**
+  **Madarik Tools — صُنع بالعربية**
 
 ⭐ **إذا أعجبتك الأداة، لا تنسَ النجمة!** ⭐
 
